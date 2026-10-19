@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Cache e bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Logs gerados pelo script
+*.log
+
+# Backups gerados (ajuste conforme sua necessidade)
+backups/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

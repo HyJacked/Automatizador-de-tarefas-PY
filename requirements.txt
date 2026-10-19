@@ -1,0 +1,3 @@
+# O script principal usa apenas a biblioteca padrão do Python (sem dependências externas).
+# A dependência abaixo é necessária apenas para rodar os testes automatizados.
+pytest>=7.0.0
